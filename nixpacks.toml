@@ -1,0 +1,8 @@
+[phases.setup]
+nixPkgs = ["dotnet-sdk_9", "dotnet-runtime_9"]
+
+[phases.build]
+cmds = ["dotnet publish -c Release -o /app"]
+
+[phases.start]
+cmds = ["dotnet /app/MyWebApi.dll"]
