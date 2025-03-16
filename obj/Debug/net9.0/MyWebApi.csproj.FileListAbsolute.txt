@@ -161,3 +161,16 @@ C:\Users\PHOENIX\Desktop\netWebApi\MyWebApi\bin\Debug\net9.0\Newtonsoft.Json.dll
 C:\Users\PHOENIX\Desktop\netWebApi\MyWebApi\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
 C:\Users\PHOENIX\Desktop\netWebApi\MyWebApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\PHOENIX\Desktop\netWebApi\MyWebApi\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\PHOENIX\Desktop\netWebApi\MyWebApi\obj\Debug\net9.0\MyWebApi.sourcelink.json
+C:\Users\PHOENIX\Desktop\netWebApi\MyWebApi\bin\Debug\net9.0\out\out\web.config
+C:\Users\PHOENIX\Desktop\netWebApi\MyWebApi\bin\Debug\net9.0\out\web.config
+C:\Users\PHOENIX\Desktop\netWebApi\MyWebApi\bin\Debug\net9.0\out\appsettings.Development.json
+C:\Users\PHOENIX\Desktop\netWebApi\MyWebApi\bin\Debug\net9.0\out\appsettings.json
+C:\Users\PHOENIX\Desktop\netWebApi\MyWebApi\bin\Debug\net9.0\out\MyWebApi.deps.json
+C:\Users\PHOENIX\Desktop\netWebApi\MyWebApi\bin\Debug\net9.0\out\MyWebApi.runtimeconfig.json
+C:\Users\PHOENIX\Desktop\netWebApi\MyWebApi\bin\Debug\net9.0\out\MyWebApi.staticwebassets.endpoints.json
+C:\Users\PHOENIX\Desktop\netWebApi\MyWebApi\bin\Debug\net9.0\out\out\appsettings.Development.json
+C:\Users\PHOENIX\Desktop\netWebApi\MyWebApi\bin\Debug\net9.0\out\out\appsettings.json
+C:\Users\PHOENIX\Desktop\netWebApi\MyWebApi\bin\Debug\net9.0\out\out\MyWebApi.deps.json
+C:\Users\PHOENIX\Desktop\netWebApi\MyWebApi\bin\Debug\net9.0\out\out\MyWebApi.runtimeconfig.json
+C:\Users\PHOENIX\Desktop\netWebApi\MyWebApi\bin\Debug\net9.0\out\out\MyWebApi.staticwebassets.endpoints.json
